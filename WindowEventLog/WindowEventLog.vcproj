@@ -3,7 +3,7 @@
 	ProjectType="Visual C++"
 	Version="9.00"
 	Name="WindowEventLog"
-	ProjectGUID="{90DAC538-7706-4818-9DBC-74E11F77E69A}"
+	ProjectGUID="{A7094941-16E1-45E9-B3CC-90D231C8CD65}"
 	RootNamespace="WindowEventLog"
 	Keyword="Win32Proj"
 	TargetFrameworkVersion="196613"
@@ -21,7 +21,7 @@
 			OutputDirectory="$(SolutionDir)$(ConfigurationName)"
 			IntermediateDirectory="$(ConfigurationName)"
 			ConfigurationType="1"
-			CharacterSet="1"
+			CharacterSet="2"
 			>
 			<Tool
 				Name="VCPreBuildEventTool"
